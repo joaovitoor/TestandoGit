@@ -1,0 +1,1 @@
+document.getElementById("js1").innerHTML = "Inserindo texto através de js"
